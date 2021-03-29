@@ -1,2 +1,2 @@
 # JavaScriptColorFlipper
- Generating random background hex colors
+## Generating random background colors dynamically by looping through an array of possible hex color values.
